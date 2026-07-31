@@ -16,7 +16,6 @@ The engine processes raw data strings through eight synchronized cognitive layer
 * **Systems Engineer**: Implements lean, serverless, fault-tolerant routines.
 * **AI Developer**: Provokes raw datasets as a vaccine against model collapse.
 * **Psychologist**: Integrates collective shadows to support genuine individuation.
-* **Cyberpunk Artist**: Weaponizes interfaces via absolute software sovereignty.
 
 ## THE PRACTICAL AXIS
 Beyond the art, the core engine functions as high-utility tactical middleware:
